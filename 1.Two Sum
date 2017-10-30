@@ -1,0 +1,4 @@
+hashmap的用法：
+map.put(nums[i], i)    // map.put("apple", "新鲜的苹果"); 向集合中添加对象，apple是key
+map.containsKey(complement)   //判断是否包含指定的键值
+map.get(complement) != i    
